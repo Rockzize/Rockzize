@@ -3,10 +3,20 @@
 I'm Gastón a game developer and programmer from Argentina.
 
 I'm currently working as a game designer and programmer with two artists in a videogame called Dice Or Death.
+
 It's a 3D dice tabletop videogame about a group of heroes exploring a dungeon and fighting monsters within it with unique sets of dice.
+
 The game is being developed in Unity.
 
-My main programming language is C# and I'm currently learning C++. I also know how to model 3D objects in Maya.
+---
+
+### Tools:
+
+- My main programming language is C# and I'm currently learning C++.
+- Unity
+- Maya for 3D modelling
+
+---
 
 ### About Me:
 
