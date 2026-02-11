@@ -14,7 +14,7 @@ The game is being developed in Unity.
 
 - My main programming language is C# and I'm currently learning C++.
 - Unity
-- Maya for 3D modelling
+- Maya
 
 ---
 
@@ -23,9 +23,10 @@ The game is being developed in Unity.
 - 🎮 I love to create and play videogames
 - ⛩ I really like anime
 - 📚 I'm passionate about storytelling. Currently DMing a D&D campaign for my friends.
+
+ <!--
 - ⚽ I also like doing physical activity like going to the gym, trekking in nature or sports like football.
 
-<!--
 **Rockzize/Rockzize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
